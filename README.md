@@ -19,10 +19,6 @@ Currently working as Software Quality Assurance Engineer, Having knowledge to cr
 <!--ts-->
    * [Stats](#stats)
    * [Tools](#tools)
-   * [Bincang QA](#%EF%B8%8Fbincang-qa)
-        * [SQA Journey Path](#sqa-journey-path)
-        * [Postman Tutorial](#postman)
-        * [Tips & Trick SQA](#tips--trick)
    * [Connect](#connect)
    * [Contact me](#contact-me)
 <!--te-->
