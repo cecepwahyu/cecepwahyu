@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Cecep!
-Currently working as Software Quality Assurance Engineer, Having knowledge to create web automation using POSTMAN, and Cucumber Selenium Java. Create mobile(Android and iOS) automation using Cucumber Appium Java and Robot Framework. API Testing using Postman, Karate and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a Jira.
+Currently working as Software Engineer - Backend.
 
 # Table of contents
 <!--ts-->
