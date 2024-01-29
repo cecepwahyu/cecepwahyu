@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Cecep!
-Currently working as Software Engineer - Mobile (iOS).
+Currently working as Software Engineer - Fullstack.
 
 # Table of contents
 <!--ts-->
