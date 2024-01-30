@@ -29,7 +29,7 @@ Currently working as Software Engineer - Fullstack.
 <a href="https://github.com/cecepwahyu">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cecepwahyu&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cecepwahyu&layout=compact&langs_count=8&theme=highcontrast"/>
-  <center><img height="310em" src="https://streak-stats.demolab.com/?user=cecepwahyu&theme=highcontrast"/></center>
+  <center><img height="312em" src="https://streak-stats.demolab.com/?user=cecepwahyu&theme=highcontrast"/></center>
 </a>
 </p>
 
