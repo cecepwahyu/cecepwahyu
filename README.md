@@ -18,8 +18,6 @@ Currently working as Software Engineer - Fullstack.
 # Table of contents
 <!--ts-->
    * [Stats](#stats)
-   * [Tools](#tools)
-   * [Connect](#connect)
    * [Contact me](#contact-me)
 <!--te-->
  
