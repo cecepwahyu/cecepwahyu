@@ -34,5 +34,5 @@ Currently working as Software Engineer - Fullstack.
 
 ### 📝Contact me!
 <p>
-    <a href="mailto: cecepssblog@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+    <a href="mailto: cecepwhy.official@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </p>
