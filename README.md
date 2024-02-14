@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there <img height="40em" src="https://raw.githubusercontent.com/masnurrm/masnurrm/master/wave.gif"/> , I'm Cecep!
+# Hi there <img height="38em" src="https://raw.githubusercontent.com/masnurrm/masnurrm/master/wave.gif"/> , I'm Cecep!
 Currently working as Software Engineer - Fullstack.
 
 # Table of contents
