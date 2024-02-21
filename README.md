@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there <img height="38em" src="https://raw.githubusercontent.com/masnurrm/masnurrm/master/wave.gif"/> , I'm Cecep!
-Currently working as Software Engineer - Fullstack.
+Currently working as Software Engineer - Fullstack..
 
 # Table of contents
 <!--ts-->
